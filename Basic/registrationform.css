@@ -1,0 +1,98 @@
+*
+{
+  font-family:poppins,arial;
+}
+body
+{ height:90vh;
+  background-image:linear-gradient(to right,hsl(25deg 93% 73%),hsl(30deg 92% 72%),hsl(38deg 90% 69%));
+}
+span
+{ 
+  display:inline-block;
+  line-heigh:26px;
+  padding-bottom:0px;
+  border-bottom:4px solid hsl(38deg 90% 69%);
+  
+}
+div
+{
+  padding:25px;
+  height:520px;
+  width:650px;
+  background:white;
+  margin:30px auto;
+  border-radius: 34px;
+}
+table,th,tr,td
+{
+  /* border:1px solid black; */
+  border-collapse:collapse;
+}
+table
+{
+  width:100%;
+}
+td,th
+{
+  text-align:left;
+}
+#name,#user,#mail,#num,#pass,#cpass
+{
+  width: 90%;
+  padding-left: 10px;
+  
+  font-size: 15px;
+  height: 38px;
+  border-radius: 34px;
+  border:1px solid hsl(0deg 0% 82%);
+  box-shadow: 0px 1px 1px  hsl(0deg 0% 82%) ;
+}
+::placeholder
+{
+  font-size: 15.5px;
+  /* font-weight: 500; */
+  font-family: poppins;
+}
+.lbl
+{ display: inline-block;
+  font-size: 16px;
+  font-weight:500;
+  color: black;
+  padding-top: 20px;
+}
+.gen
+{
+  font-size: 16px;
+}
+.btn
+{
+  width: 100%;
+  height: 43px;
+  border: none;
+  border-radius: 34px;
+  color: white;
+  font-size: 16px;
+  letter-spacing: 1.5px;
+  font-weight: 550;
+  background-image: linear-gradient(to right,hsl(25deg 93% 73%),hsl(30deg 92% 72%),hsl(38deg 90% 69%));
+}
+th
+{
+  font-size: 25px;
+  padding-top: 10px;
+  /* padding-bottom: 20px; */
+  font-weight: 500;
+}
+.lblgen
+{ 
+  display: inline-block;
+  font-size:19px; 
+  font-weight:500;
+  padding-top: 20px;
+  padding-bottom: 12px;
+}
+
+#mal,#fem,#oth
+{
+  margin-bottom: 35px;
+}
