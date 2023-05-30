@@ -1,0 +1,19 @@
+body{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png');
+    color:white;
+    height:100vh;
+    width:300px;
+    background-size: contain;
+    background-repeat: no-repeat
+}
+.cover_page{
+    border:solid #48ee59 5px;
+    width:250px;
+    height: 250px;
+    font-family:Bree Serif;
+    margin-top: 150px;
+    margin-left: 70px;
+    font-size: 50px;
+    background-color: #00000080;
+    padding-left: 15px;
+}

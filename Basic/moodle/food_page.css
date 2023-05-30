@@ -1,0 +1,22 @@
+.card-body{
+    background-color: #f6c56e;
+    border-top-left-radius:15px;
+    border-top-right-radius: 15px;
+    color:#323f4b;
+}
+h5{
+    font-family:Bree serif;
+    color:#323f4b;
+}
+p{
+    font-family: Roboto;
+    color:#323f4b;
+}
+button{
+    font-family: Roboto;
+    background-color:#ffffff;
+    color:#323f4b;
+}
+body{
+    color:#323f4b;
+}

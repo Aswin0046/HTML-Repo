@@ -1,0 +1,8 @@
+p{
+    background-color: aqua;
+    /* box-shadow: 0 10px 10px black; */
+    /* box-shadow: 2px 3px 4px 5px blue; */
+    /* box-shadow: 2px 3px 4px 5px yellow, 3px 2px 5px palegreen ; */
+    /* box-shadow: 15px 3px inset; */
+    box-shadow: 0 0 -10px rgb(0, 0, 0);
+}

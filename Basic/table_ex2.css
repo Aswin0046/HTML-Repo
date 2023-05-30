@@ -1,0 +1,29 @@
+th{
+    background-color: rgba(255, 136, 0, 0.411);
+    height: 60px;
+}
+table{
+    margin-top: 100px;
+    text-align:center;
+    height: 500px;
+    width:80%;
+    border-collapse: collapse;
+    border:solid rgba(255, 0, 238, 0.411) 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background:url(https://www.gpone.com/sites/default/files/images/2020/blog/Paolo%20Scalera/01-January/rossi-ride001.jpg);
+   /*  background-repeat:no-repeat; */
+    background-size:contain;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+
+}
+tr:hover{
+    background-color: rgba(0, 72, 255, 0.416);
+    tr:nth-child(even);
+}
+tr:nth-child(even){
+    background-color: rgba(0, 255, 30, 0.471);
+}

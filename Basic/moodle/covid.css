@@ -1,0 +1,36 @@
+* {
+    font-family: "Roboto";
+  }
+  .bottom1 {
+    background-color: #93bae7;
+    border-radius: 10px;
+    margin-right: 1%;
+    margin-left: 1%;
+  }
+  .image2 {
+    padding-top: 50px;
+  }
+  .image3 {
+    background-color: #3ebd93;
+    border-radius: 10px;
+  }
+  .image4 {
+    background-color: #e668a7;
+    border-radius: 10px;
+  }
+  .image5 {
+    background-color: #a368fc;
+    border-radius: 10px;
+  }
+  .down {
+    background-color: #e12d3919;
+    border-radius: 10px;
+    margin-right: 1%;
+    margin-left: 1%;
+  }
+  .clr1{
+      color: #323f4b;
+  }
+  .clr2{
+      color: #707070;
+  }

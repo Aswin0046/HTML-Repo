@@ -1,0 +1,23 @@
+.bt1{
+    border: #d7dfe9;
+    background-color: #ffffff;
+    color: #171f46;
+}
+.bt2{
+    border: #d7dfe9;
+    background-color: #5752ab;
+    color: #ffffff;
+}
+.btn{
+    border: #d7dfe9;
+}
+.card-title{
+    color: #5752ab;
+    font-family: "Bree serif";
+    font-weight: 900;
+}
+.card-text{
+    color: #323f4b;
+    font-family: "roboto";
+    font-weight: 600;
+}

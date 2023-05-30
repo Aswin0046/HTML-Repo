@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(245, 250, 255);
+}
+#my-name{
+    text-align: center;
+    background-color: rgb(177, 177, 177);
+    width: 30%;
+   margin-left: 20px;
+    margin-left: 60px;
+}
