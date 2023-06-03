@@ -1,0 +1,203 @@
+@media screen and (min-width: 480px){
+    .skills{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.navbar{
+    box-shadow: 2px 2px 2px black;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(55, 255, 0, 0.409));
+}
+.b_g{
+    background-image: url(https://th.bing.com/th/id/R.94745504cbda575b5c4744b78b1e5867?rik=vCVKCITRz3RGtg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f8%2fForest-PNG-Transparent-Images.png&ehk=4ZToc0PibWO8z6vlyu41qY0xG9jhpXW49fBv%2bDyfwDI%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px;
+}
+.nav-item:hover{
+    background-color: yellowgreen;
+}
+.nav1{
+    border-radius: 15px;
+    box-shadow: 1px 1px 2px black;
+    margin-right: 15px;
+}
+.nav2{
+    border-radius: 15px;
+    box-shadow: 1px 1px 2px black;
+    margin-right: 15px;
+}
+.nav3{
+    border-radius: 15px;
+    box-shadow: 1px 1px 2px black;
+    margin-right: 15px;
+}
+.nav4{
+    border-radius: 15px;
+    box-shadow: 1px 1px 2px black;
+    margin-right: 15px;
+}
+.nav5{
+    border-radius: 15px;
+    box-shadow: 1px 1px 2px black;
+    margin-right: 15px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+}
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: white!important;
+}
+.logo{
+    border: none;
+    border-radius: 200%;
+    box-shadow: 2px 2px 2px black;
+    background-color: rgba(172, 255, 47, 0.557);
+    border: 2px solid white;
+}
+.name{
+    font-weight: bold;
+    font-size: 100px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+span{
+    color: greenyellow;
+}
+.named{
+    font-weight: bold;
+    font-size: 90px;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+/* card */
+.card{
+    border: none;
+    padding: 100px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(55, 255, 0, 0.409));
+}
+.img-fluid{
+    box-shadow: 5px 5px 5px black;
+}
+.about{
+    font-size: 60px;
+    margin: 10px;
+    color: greenyellow;
+}
+.aboutText{
+    font-size: xx-large;
+    margin: 10px;
+}
+/* skills */
+.skills{
+    margin: 10px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(55, 255, 0, 0.409));
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.skills_text{
+    color: yellowgreen;
+}
+.html{
+    margin-left: 100px;
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 2px 3px 2px black;
+}
+.html_icon{
+    margin-top: 20px;
+    font-size: 50px;
+}
+.html:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: green;
+}
+.css{
+    margin-left: 100px;
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 2px 3px 2px black;
+}
+.css_icon{
+    margin-top: 20px;
+    font-size: 50px;
+}
+.css:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: green;
+}
+.bootstrap{
+    margin-left: 100px;
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 2px 3px 2px black;
+}
+.bootstrap_icon{
+    margin-top: 20px;
+    font-size: 50px;
+}
+.bootstrap:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: green;
+}
+/* education */
+.education{
+    margin: 30px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(55, 255, 0, 0.409));
+    color: yellowgreen;
+    padding: 50px;
+}
+/* contact */
+.contact{
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(55, 255, 0, 0.409));
+    color: yellowgreen;
+}
+.mail{
+    color: black;
+}
+.number{
+    color: black;   
+}
+.social-icons{
+    font-size: 50px;
+}
+.fb{
+    color: black;
+}
+.fb:hover{
+    color: yellowgreen;
+}
+.insta{
+    color: black;
+}
+.insta:hover{
+    color: yellowgreen;
+}.ld{
+    color: black;
+}
+.ld:hover{
+    color: yellowgreen;
+}

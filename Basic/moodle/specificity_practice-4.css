@@ -1,0 +1,10 @@
+.blue-text{
+    color:blue;
+}
+#description{
+    font-size:20px;
+}
+.main{
+    background-color:lightgray;
+    height:100vh;
+}
